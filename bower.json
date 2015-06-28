@@ -2,7 +2,7 @@
   "name": "mapbox-gl.js",
   "main": [
     "dist/mapbox-gl.css",
-    "dist/mapbox-gl.js",
+    "dist/mapbox-gl.js"
   ],
   "version": "",
   "homepage": "https://www.mapbox.com/mapbox-gl",

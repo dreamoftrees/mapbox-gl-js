@@ -1,0 +1,20 @@
+{
+  "name": "mapbox-gl.js",
+  "main": [
+    "dist/mapbox-gl.css",
+    "dist/mapbox-gl.js",
+  ],
+  "version": "",
+  "homepage": "https://www.mapbox.com/mapbox-gl",
+  "authors": ["Mapbox"],
+  "description": "Mapbox GL Javascript API",
+  "keywords": ["mapbox-gl", "leaflet", "maps", "map"],
+  "license": "See LICENSE.md",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "examples"
+  ]
+}
